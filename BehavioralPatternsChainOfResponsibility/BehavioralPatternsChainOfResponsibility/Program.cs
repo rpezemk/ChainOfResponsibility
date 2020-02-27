@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ChainOfResponsibility
 {
-    class Chain_of_responsibility
+    class ChainOfResponsibility
     {
         static void Main(string[] args)
         {
